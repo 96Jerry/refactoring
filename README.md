@@ -11,3 +11,5 @@
 ## [Chapter04](https://github.com/96Jerry/refactoring/tree/main/chapter04)
 
 ## [Chapter06](https://github.com/96Jerry/refactoring/tree/main/chapter06)
+
+## [Chapter07](https://github.com/96Jerry/refactoring/tree/main/chapter07)
