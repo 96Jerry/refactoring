@@ -18,3 +18,4 @@ console.log(getOrganization().name);
 // getOrganization()._name = '이름2';
 
 // console.log(organization._name);
+//
